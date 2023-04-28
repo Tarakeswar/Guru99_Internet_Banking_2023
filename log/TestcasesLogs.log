@@ -1,0 +1,5 @@
+28-Apr-2023 11:39:28:143 INFO  [main] (TC_Login_Test_001.java:15)- open the browser
+28-Apr-2023 11:39:28:342 INFO  [main] (TC_Login_Test_001.java:18)- username is entered
+28-Apr-2023 11:39:28:397 INFO  [main] (TC_Login_Test_001.java:20)- password is entered
+28-Apr-2023 11:39:28:574 INFO  [main] (TC_Login_Test_001.java:22)- click on the signin button
+28-Apr-2023 11:39:31:624 INFO  [main] (TC_Login_Test_001.java:27)- login test passed
